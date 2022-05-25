@@ -14,7 +14,7 @@ public class MyFirstJavaProgram {
 		  for(int i:numbers) {
 	    	  System.out.println("Hello World" + " " + i);
 	    	  System.out.println("HEHEHEHE");
-	    	  System.out.println("EHEIOHEOHE");
+	    	  System.out.println("EHEIOHEHE");
 	      }
 	   }
 }
